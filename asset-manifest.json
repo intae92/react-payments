@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-payments/static/css/main.7167c25f.css",
-    "main.js": "/react-payments/static/js/main.c4f36c74.js",
-    "static/js/175.712810c6.chunk.js": "/react-payments/static/js/175.712810c6.chunk.js",
-    "static/js/558.80897690.chunk.js": "/react-payments/static/js/558.80897690.chunk.js",
-    "static/js/463.4e01203b.chunk.js": "/react-payments/static/js/463.4e01203b.chunk.js",
+    "main.js": "/react-payments/static/js/main.960fbf72.js",
+    "static/js/175.cd58e2ba.chunk.js": "/react-payments/static/js/175.cd58e2ba.chunk.js",
+    "static/js/558.a0d17f15.chunk.js": "/react-payments/static/js/558.a0d17f15.chunk.js",
+    "static/js/463.66d4ee3b.chunk.js": "/react-payments/static/js/463.66d4ee3b.chunk.js",
     "index.html": "/react-payments/index.html",
     "main.7167c25f.css.map": "/react-payments/static/css/main.7167c25f.css.map",
-    "main.c4f36c74.js.map": "/react-payments/static/js/main.c4f36c74.js.map",
-    "175.712810c6.chunk.js.map": "/react-payments/static/js/175.712810c6.chunk.js.map",
-    "558.80897690.chunk.js.map": "/react-payments/static/js/558.80897690.chunk.js.map",
-    "463.4e01203b.chunk.js.map": "/react-payments/static/js/463.4e01203b.chunk.js.map"
+    "main.960fbf72.js.map": "/react-payments/static/js/main.960fbf72.js.map",
+    "175.cd58e2ba.chunk.js.map": "/react-payments/static/js/175.cd58e2ba.chunk.js.map",
+    "558.a0d17f15.chunk.js.map": "/react-payments/static/js/558.a0d17f15.chunk.js.map",
+    "463.66d4ee3b.chunk.js.map": "/react-payments/static/js/463.66d4ee3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7167c25f.css",
-    "static/js/main.c4f36c74.js"
+    "static/js/main.960fbf72.js"
   ]
 }
